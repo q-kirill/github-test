@@ -1,0 +1,25 @@
+en:
+  api:
+    errors:
+      profile_completed_step:
+        incorrect: Incorrectement
+      device_token:
+        cannot_be_blank: Jeton de périphérique ne peut pas être vide
+      device_type:
+        is_required: Le type de règlement est obligatoire.
+      email_or_password_not_present: La demande doit contenir l'e-mail et mot de passe
+      access_token_invalid: Jeton d'accès valide
+      video_request:
+        over: Cet appel vidéo est terminée
+      video_request1:
+        over1: Cet appel vidéo est fait
+      video_request2:
+        over2: Cet appel vidéo est en cours
+      video_request3:
+        over2: Cette vidéo 3 appel est en cours
+      video_request4:
+        over2: Cette vidéo 44 appel est en cours
+      video_request5:
+        newnew: Nouveau nouveau nouveau
+      video_request6:
+        newseq: Numéro du segment 6 sera ajouté au fichier qordoba
