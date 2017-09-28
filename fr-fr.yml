@@ -2,7 +2,7 @@ en:
   api:
     errors:
       profile_completed_step:
-        incorrect: Incorrectement
+        incorrect: Incorrectementsadasd
       device_token:
         cannot_be_blank: Jeton de périphérique ne peut pas être vide
       device_type:
