@@ -1,0 +1,25 @@
+en:
+  api:
+    errors:
+      profile_completed_step:
+        incorrect: ''
+      device_token:
+        cannot_be_blank: ''
+      device_type:
+        is_required: ''
+      email_or_password_not_present: ''
+      access_token_invalid: ''
+      video_request:
+        over: ''
+      video_request1:
+        over1: ''
+      video_request2:
+        over2: ''
+      video_request3:
+        over2: ''
+      video_request4:
+        over2: ''
+      video_request5:
+        newnew: ''
+      video_request6:
+        newseq: ''
