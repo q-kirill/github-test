@@ -1,3 +1,3 @@
 var testTouch = function() {
-  console.log('dont pass the status check')
+  console.log('plz pass status check')
  }
