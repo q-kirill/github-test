@@ -2,24 +2,25 @@ en:
   api:
     errors:
       profile_completed_step:
-        incorrect: ''
+        incorrect: Incorrecto
       device_token:
-        cannot_be_blank: ''
+        cannot_be_blank: Token de dispositivo no puede estar en blanco
       device_type:
-        is_required: ''
-      email_or_password_not_present: ''
-      access_token_invalid: ''
+        is_required: Se requiere Tipo de dispositivo
+      email_or_password_not_present: La solicitud deberá contener el correo electrónico
+        y la contraseña
+      access_token_invalid: Token de acceso no válido
       video_request:
-        over: ''
+        over: Esta videollamada ha terminado
       video_request1:
-        over1: ''
+        over1: Esta llamada de vídeo se realiza
       video_request2:
-        over2: ''
+        over2: Esta llamada de vídeo está en curso
       video_request3:
-        over2: ''
+        over2: Esta videollamada 3 está en curso
       video_request4:
-        over2: ''
+        over2: Esta videollamada 44 está en curso
       video_request5:
-        newnew: ''
+        newnew: Nuevo nuevo nuevo
       video_request6:
-        newseq: ''
+        newseq: Número de segmento 6 se añadirá al archivo qordoba
