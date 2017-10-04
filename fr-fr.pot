@@ -1,0 +1,819 @@
+#: 
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-10-03 00:27+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: core/fields.py:30
+msgid "Phone number"
+msgstr "Téléphone"
+
+#: core/util/jobs.py:1475
+msgid "Live Order Support will contact you shortly."
+msgstr "Assistance pour les commandes en direct vous contactera sous peu."
+
+#: core/util/jobs.py:1476
+msgid "Live Order Support has resolved your issue."
+msgstr "En direct Assistance pour les commandes a résolu votre problème."
+
+#: core/util/jobs.py:1477
+msgid "Live Order Support has been canceled."
+msgstr "Assistance pour les commandes en direct a été annulé."
+
+#: core/util/jobs.py:1519
+msgid "substitution"
+msgstr "Substitution"
+
+#: core/util/jobs.py:1520
+msgid "reassign"
+msgstr "Réassigner"
+
+#: core/util/jobs.py:1521
+msgid "arrival time"
+msgstr "Heure d'arrivée"
+
+#: core/util/jobs.py:1522
+msgid "customer"
+msgstr "Client"
+
+#: core/util/jobs.py:1523
+msgid "PEX"
+msgstr "PEX"
+
+#: core/util/jobs.py:1524
+msgid "merchant"
+msgstr "Marchande"
+
+#: core/util/jobs.py:1525
+msgid "order"
+msgstr "Commande"
+
+#: core/util/jobs.py:1556
+msgid "Live Order Support will address your {} issue ASAP."
+msgstr "Le soutien en direct ordre résoudre {} votre problème dès que possible."
+
+#: core/util/pickup_instructions.py:18
+msgid "This order has been prepaid and ordered. Do NOT swipe your Postmates Prepaid Card. Ask for the order by the name or number on the next screen."
+msgstr "Cette commande a été payé d'avance et ordonné. Ne pas passer votre Postmates carte prépayée. Demandez l'ordre par le nom ou le numéro sur l'écran suivant."
+
+#: core/util/pickup_instructions.py:45 core/util/pickup_instructions.py:97
+msgid "Identify yourself as a Postmate."
+msgstr "Identifiez-vous comme Postmate."
+
+#: core/util/pickup_instructions.py:103
+msgid "Pay with your Postmates Prepaid Card."
+msgstr "Payez avec votre Postmates de carte prépayée."
+
+#: core/util/pickup_instructions.py:106
+msgid "Ask for the order by the name or number."
+msgstr "Demandez l'ordre par le nom ou le numéro."
+
+#: courier/util/job_dropoff.py:15
+msgid "Return the order to the pickup location within the next 36 hours. Check your email for more details."
+msgstr "Retour à l'ordre du lieu de ramassage dans les 36 prochaines heures. Vérifiez votre e-mail pour plus de détails."
+
+#: courier/util/job_dropoff.py:18
+msgid "Please return the items to the pickup location and you'll be paid for the return once it's completed."
+msgstr "S'il vous plaît retourner les articles à l'emplacement de pick-up et vous serez payé pour le retour une fois qu'il est terminé."
+
+#: courier/util/job_dropoff.py:20
+msgid "Please keep the items or dispose of them properly."
+msgstr "S'il vous plaît garder les articles ou en disposer correctement."
+
+#: courier/util/job_dropoff.py:22
+msgid "Return all non-food items to the pickup location within the next 36 hours. Check your email for more details."
+msgstr "Retour tous les articles non alimentaires au lieu de ramassage dans les 36 prochaines heures. Vérifiez votre e-mail pour plus de détails."
+
+#: courier/util/rogue_couriers.py:61
+msgid "We've noticed that many of your deliveries have been late. Be sure to complete deliveries in a timely and efficient manner."
+msgstr "Nous avons remarqué que beaucoup de vos livraisons ont été en retard. Assurez-vous de compléter les livraisons en temps opportun et efficace."
+
+#: courier/util/throttling.py:640
+msgid "{} days"
+msgstr "{} Jours"
+
+#: courier/util/throttling.py:642
+msgid "1 day"
+msgstr "Un jour"
+
+#: courier/util/throttling.py:644
+msgid "{} hours"
+msgstr "{} Heures"
+
+#: courier/util/throttling.py:646
+msgid "1 hour"
+msgstr "1 heure"
+
+#: courier/util/throttling.py:648
+msgid "{} minutes"
+msgstr "{} Minutes"
+
+#: courier/util/throttling.py:650
+msgid "1 minute"
+msgstr "1 minute"
+
+#: courier/util/throttling.py:654
+msgid "It appears you are not accepting new delivery offers at this time. Please retry {}."
+msgstr "Il semble que vous n'êtes pas accepter de nouvelles offres de livraison à ce {} moment. S'il vous plaît réessayer."
+
+#: courier/util/throttling.py:663
+msgid "Your recent deliveries have taken significantly longer to complete than was reasonably expected. Please retry {}."
+msgstr "Vos livraisons récentes ont pris beaucoup plus de temps que pouvait raisonnablement attendre. S'il vous {} plaît réessayer."
+
+#: courier/util/throttling.py:673
+msgid "Many of your recent deliveries ended inefficiently due to cancellations. Please retry in {}. "
+msgstr "Beaucoup de vos livraisons récentes a pris fin inefficacement en raison d'annulations. S'il {} vous plaît réessayer dans."
+
+#: courier/util/throttling.py:679
+msgid "Many of your recent deliveries were incomplete. Please retry in {}."
+msgstr "Beaucoup de vos livraisons récentes étaient incomplètes. S'il vous plaît {} réessayer dans."
+
+#: courier/util/throttling.py:685
+msgid "Many of your recent deliveries were completed as \"no one available\". Please retry in {}."
+msgstr "Beaucoup de vos livraisons récentes ont été réalisées comme « ne disponible ». S'il {} vous plaît réessayer dans."
+
+#: courier/util/throttling.py:692
+msgid "You've asked to cancel and go offline {} today. "
+msgstr "Vous avez demandé à annuler et hors-ligne. {}"
+
+#: courier/util/throttling.py:699
+msgid "You'll need to wait {} before coming back online."
+msgstr "Vous devrez attendre avant {} de revenir en ligne."
+
+#: courier/util/features/blitz_notifs.py:11
+msgid "Blitz Notifications"
+msgstr "Blitz Notifications"
+
+#: courier/util/features/blitz_notifs.py:13
+msgid "Get notified when payouts are higher than normal."
+msgstr "Être informé quand les paiements sont plus élevés que la normale."
+
+#: courier_api/util/accounts.py:62
+msgid "Create account"
+msgstr "Créer un compte"
+
+#: courier_api/util/accounts.py:63
+msgid "Verify your identity"
+msgstr "Vérifiez Votre Identité"
+
+#: courier_api/util/accounts.py:64
+msgid "Download the Fleet app"
+msgstr "Télécharger l'application NextVR"
+
+#: courier_api/util/accounts.py:65
+msgid "Upload a selfie"
+msgstr "Ajouter une selfie"
+
+#: courier_api/util/accounts.py:66
+msgid "Learn how to deliver"
+msgstr "Apprenez à livrer"
+
+#: courier_api/util/accounts.py:67
+msgid "Activate your prepaid card"
+msgstr "Activez votre carte prépayée"
+
+#: courier_promo/util/serializer.py:26
+msgid "Here's a ${} bonus!"
+msgstr "Voici un ${} bonus!"
+
+#: courier_promo/util/serializer.py:28
+msgid "Hi! Join me as a Postmate. Earn ~$25/hr on your own schedule. Claim your starting bonus now with code {referral_code} or this link"
+msgstr "Salut! Joignez-vous à moi en tant que Postmate. Gagnez ~ 25 $ / h sur votre propre horaire. Réclamez {referral_code} votre bonus de départ maintenant avec le code ou ce lien"
+
+#: courier_promo/util/serializer.py:40
+msgid "Hey! Join me as a Postmate now and get a starting bonus 💰 💸 🤑 (up to ${amount}). Earn lots of money on your own schedule. Use my code {code} or here is a link: {link}"
+msgstr "Hey! Joignez-vous à moi en tant que Postmate maintenant et obtenez un bonus de départ 💰 💸 ${amount} 🤑 (jusqu'à). Gagnez beaucoup d'argent sur votre propre horaire. Utilisez mon code {code} ou voici un lien: {link}"
+
+#: courier_promo/util/serializer.py:48
+msgid "Get up to ${amount} bonus and earn $$$ on your schedule. Join me as a postmate. Use code {code} or here is a link: {link}"
+msgstr "Levez-vous bonus et ${amount} gagner $$$ sur votre calendrier. Joignez-vous à moi en tant que POSTMATE. Utilisez le code {code} ou voici un lien: {link}"
+
+#: courier_promo/util/serializer.py:61
+msgid "Earn up to ${amount} for each friend who completes {number_of_deliveries} deliveries with Postmates."
+msgstr "Gagnez jusqu'à pour ${amount} chaque ami qui complète les livraisons {number_of_deliveries} avec Postmates."
+
+#: courier_promo/util/serializer.py:70
+msgid "Invite friends, earn up to ${amount}"
+msgstr "Invitez des amis, gagner jusqu'à ${amount}"
+
+#: courier_push_notification/courier_events.py:71
+msgid "Your itinerary has been updated with a new delivery."
+msgstr "Votre itinéraire a été mis à jour avec une nouvelle livraison."
+
+#: courier_push_notification/courier_events.py:73
+msgid "You've canceled the delivery from {name}. The customer has been notified."
+msgstr "Vous avez annulé la livraison {name} de. Le client a été avisé."
+
+#: courier_push_notification/courier_events.py:75
+msgid "The delivery from {name} was canceled."
+msgstr "La livraison de {name} a été annulée."
+
+#: courier_push_notification/courier_events.py:77
+msgid "You earned ${payout:,.2f} for your time."
+msgstr "Vous avez ${payout:,.2f} gagné votre temps."
+
+#: courier_push_notification/courier_events.py:78
+msgid "You are now offline. This will be your last delivery."
+msgstr "Vous êtes maintenant déconnecté. Ce sera votre dernière livraison."
+
+#: courier_push_notification/courier_events.py:80
+msgid "Please return the delivery from {name}. You will be automatically paid for the return trip once it's complete."
+msgstr "S'il vous plaît retourner la {name} livraison de. Vous serez payé automatiquement pour le voyage de retour une fois terminée."
+
+#: courier_push_notification/courier_events.py:82
+msgid "Funds have been added to your PEX card"
+msgstr "Des fonds ont été ajoutés à votre carte PEX"
+
+#: courier_push_notification/courier_events.py:83
+msgid "The additional ${amount:,.2f} you've requested has been added to your PEX card."
+msgstr "La vous ${amount:,.2f} avez demandé supplémentaire a été ajouté à votre carte PEX."
+
+#: courier_push_notification/courier_events.py:85courier_push_notification/courier_events.py:236
+msgid "Postmates Ops paid for the order."
+msgstr "Ops Postmates payés pour l'ordre."
+
+#: courier_push_notification/courier_events.py:188courier_push_notification/courier_events.py:212
+msgid "Your route has been updated with a new delivery."
+msgstr "Votre itinéraire a été mis à jour avec une nouvelle livraison."
+
+#: courier_push_notification/courier_events.py:193
+msgid "Customer Canceled"
+msgstr "Client annulée"
+
+#: courier_push_notification/courier_events.py:194
+msgid "This delivery has been canceled by the customer."
+msgstr "Cette livraison a été annulée par le client."
+
+#: courier_push_notification/courier_events.py:199courier_push_notification/courier_events.py:205courier_push_notification/courier_events.py:320
+msgid "Delivery Canceled"
+msgstr "Livraison annulée"
+
+#: courier_push_notification/courier_events.py:200courier_push_notification/courier_events.py:321
+msgid "This delivery has been canceled."
+msgstr "Cette livraison a été annulée."
+
+#: courier_push_notification/courier_events.py:206
+msgid "The customer has been notified and the delivery has been canceled."
+msgstr "Le client a été avisé et la livraison a été annulée."
+
+#: courier_push_notification/courier_events.py:217
+msgid "Delivery has been reversed."
+msgstr "La livraison a été inversée."
+
+#: courier_push_notification/courier_events.py:218
+msgid "Postmates assigned you a return delivery."
+msgstr "Postmates vous avez attribué une livraison de retour."
+
+#: courier_push_notification/courier_events.py:223
+msgid "Delivery Order Updated"
+msgstr "Ordre de livraison Mise à jour"
+
+#: courier_push_notification/courier_events.py:224
+msgid "An order has been updated."
+msgstr "Un ordre a été mis à jour."
+
+#: courier_push_notification/courier_events.py:228
+msgid "It appears that you are not accepting deliveries at this time. You have been taken offline automatically."
+msgstr "Il semble que vous n'êtes pas acceptez les livraisons à ce moment. Vous avez été mis hors ligne automatiquement."
+
+#: courier_push_notification/courier_events.py:239
+msgid "Additional Funds Added"
+msgstr "Les fonds supplémentaires sont ajoutés"
+
+#: courier_push_notification/courier_events.py:240
+msgid "Funds have been added to your PEX card."
+msgstr "Des fonds ont été ajoutés à votre carte PEX."
+
+#: courier_push_notification/courier_events.py:244courier_push_notification/courier_events.py:257courier_push_notification/courier_events.py:343
+msgid "Order Issue Updated"
+msgstr "Problème calendrier mis à jour"
+
+#: courier_push_notification/courier_events.py:245courier_push_notification/courier_events.py:258courier_push_notification/courier_events.py:344
+msgid "Your order issue has been updated."
+msgstr "Votre numéro de commande a été mis à jour."
+
+#: courier_push_notification/courier_events.py:249
+msgid "You're now offline. You have one final delivery."
+msgstr "Vous êtes maintenant déconnecté. Vous avez une livraison finale."
+
+#: courier_push_notification/courier_events.py:253courier_push_notification/courier_events.py:315
+msgid "A new delivery is available."
+msgstr "Une nouvelle livraison est disponible."
+
+#: courier_push_notification/courier_events.py:262
+msgid "Your motor vehicle report looks good. You can switch to a motor vehicle from account settings."
+msgstr "Votre rapport de véhicule à moteur semble bon. Vous pouvez passer à un véhicule à moteur à partir de paramètres de compte."
+
+#: courier_push_notification/courier_events.py:267courier_push_notification/courier_events.py:273courier_push_notification/courier_events.py:279
+msgid "Identification Required at Drop Off"
+msgstr "Identification requise à Drop Off"
+
+#: courier_push_notification/courier_events.py:268
+msgid "You'll need to verify the customer's identity before you complete the delivery."
+msgstr "Vous aurez besoin de vérifier l'identité du client avant de terminer la livraison."
+
+#: courier_push_notification/courier_events.py:274
+msgid "You'll need to verify the customer's date of birth before you complete the delivery."
+msgstr "Vous devez vérifier la date de naissance du client avant de terminer la livraison."
+
+#: courier_push_notification/courier_events.py:280
+msgid "You'll need to verify the customer's identity and date of birth to complete the delivery."
+msgstr "Vous aurez besoin de vérifier l'identité et la date de naissance pour compléter la livraison du client."
+
+#: courier_push_notification/courier_events.py:305
+msgid "Complete your delivery"
+msgstr "Complétez votre livraison"
+
+#: courier_push_notification/courier_events.py:306
+msgid " Be sure to complete your recent delivery so the customer is able to leave you a tip."
+msgstr "Assurez-vous de compléter votre récente livraison afin que le client est en mesure de vous laisser un pourboire."
+
+#: courier_push_notification/courier_events.py:326
+msgid "Itinerary Updated"
+msgstr "Itinéraire Mise à jour"
+
+#: courier_push_notification/courier_events.py:327
+msgid "Your itinerary has been updated."
+msgstr "Votre itinéraire a été mis à jour."
+
+#: courier_push_notification/courier_events.py:332
+msgid "Current Delivery Updated"
+msgstr "Mise à jour en cours de livraison"
+
+#: courier_push_notification/courier_events.py:333
+msgid "Your current delivery has been updated."
+msgstr "Votre prestation actuelle a été mis à jour."
+
+#: courier_push_notification/courier_events.py:1241
+msgid "Delivery Complete! You earned ${:.2f} before tip."
+msgstr "Livraison complète! Vous avez ${:.2f} gagné avant pourboire."
+
+#: fleet_standards/util/cna_abuse.py:60
+msgid "Hmm, you noted \"no one available\" on many recent deliveries. As a heads up, many of our top-earning Postmates tell us they wait 5 min and call/text each customer."
+msgstr "Hmm, vous avez noté « ne disponible » sur de nombreuses livraisons récentes. Comme un heads-up, beaucoup de nos Postmates haut gagnant nous disent qu'ils attendent 5 min et appel / texte chaque client."
+
+#: fleet_standards/util/js_options_abuse.py:55
+msgid "Hmm - looks like many of your recent deliveries ended in cancellations.Keep in mind our most successful Postmates only accept deliveries they can complete."
+msgstr "Hmm - ressemble à beaucoup de vos livraisons récentes terminé à cette date cancellations.Keep à l'esprit nos Postmates les plus réussis acceptent que les livraisons peuvent compléter."
+
+#: fleet_standards/util/missing_orders.py:54
+msgid "Many of your recent deliveries were reported incomplete. Our highest rated Postmates tell us they only accept deliveries they can complete."
+msgstr "Beaucoup de vos livraisons récentes ont été signalés incomplètes. Notre plus grande Postmates notés nous disent qu'ils acceptent que les livraisons qu'ils peuvent accomplir."
+
+#: help_center/signals/notification_messages.py:74
+msgctxt "courier payout notification message"
+msgid ""
+"\n"
+"${courier_payout_amount} has been credited to your account."
+msgstr ""
+"\n"
+" ${courier_payout_amount} A été crédité sur votre compte.\n"
+
+#: help_center/signals/notification_messages.py:121
+msgctxt "Job cancellation courier notification message"
+msgid "{pickup_place_name} delivery has been canceled."
+msgstr "{pickup_place_name} La livraison a été annulée."
+
+#: help_center/signals/notification_messages.py:128help_center/signals/notification_messages.py:136help_center/signals/notification_messages.py:152
+msgctxt "Job cancellation courier notification message"
+msgid "Delivery canceled because {pickup_place_name} is temporarily closed."
+msgstr "Livraison annulée car {pickup_place_name} est temporairement fermé."
+
+#: help_center/signals/notification_messages.py:143help_center/signals/notification_messages.py:159help_center/signals/notification_messages.py:183
+msgctxt "Job cancellation courier notification message"
+msgid "Delivery canceled because {pickup_place_name} is too busy to take orders."
+msgstr "Livraison annulée car {pickup_place_name} est trop occupé pour prendre les commandes."
+
+#: help_center/signals/notification_messages.py:167help_center/signals/notification_messages.py:175
+msgctxt "Job cancellation courier notification message"
+msgid "Delivery canceled because {pickup_place_name} is unable to accept credit cards."
+msgstr "Livraison annulée parce {pickup_place_name} que ne peut pas accepter les cartes de crédit."
+
+#: help_center/signals/notification_messages.py:190
+msgctxt "Job cancellation courier notification message"
+msgid "{pickup_place_name} delivery has been canceled because it appears that the items were not dropped off."
+msgstr "{pickup_place_name} La livraison a été annulée car il semble que les articles ne sont pas déposés."
+
+#: help_center/signals/notification_messages.py:203help_center/signals/notification_messages.py:633
+msgctxt "Job cancellation buyer notification message"
+msgid "Your order could not be completed and has been cancelled. You were not charged, we apologize for the inconvenience."
+msgstr "Votre commande n'a pas pu être terminée et a été annulée. Vous ne avez pas payer, nous nous excusons pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:210
+msgctxt "Job cancellation buyer notification message"
+msgid "Your order could not be completed and has been cancelled. You were not charged and a credit will be applied to your next order for the inconvenience."
+msgstr "Votre commande n'a pas pu être terminée et a été annulée. Vous ne avez pas facturé et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:220help_center/signals/notification_messages.py:237
+msgctxt "Job cancellation buyer notification message"
+msgid "Your order has been cancelled. The merchant is temporarily closed. You won't be charged for this order."
+msgstr "Votre commande a été annulée. Le marchand est temporairement fermé. Vous ne serez pas facturé pour cette commande."
+
+#: help_center/signals/notification_messages.py:228help_center/signals/notification_messages.py:245
+msgctxt "Job cancellation buyer notification message"
+msgid "Your order has been cancelled. The merchant is temporarily closed. You were not charged and a credit will be applied to your next order for the inconvenience."
+msgstr "Votre commande a été annulée. Le marchand est temporairement fermé. Vous ne avez pas facturé et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:254
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately your order cannot be completed from this location. Please try ordering from another location. We will work on getting this location back up and running soon!"
+msgstr "Malheureusement, votre commande ne peut être effectuée à partir de cet endroit. S'il vous plaît essayer de commander à un autre endroit. Nous travaillerons sur l'obtention de cet endroit à nouveau opérationnel bientôt!"
+
+#: help_center/signals/notification_messages.py:263
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately your order cannot be completed from this location. Please try ordering from another location. You were not charged and a credit will be applied to your next order for the inconvenience."
+msgstr "Malheureusement, votre commande ne peut être effectuée à partir de cet endroit. S'il vous plaît essayer de commander à un autre endroit. Vous ne avez pas facturé et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:273help_center/signals/notification_messages.py:349
+msgctxt "Job cancellation buyer notification message"
+msgid "We tried to place your order but the store has either closed or changed locations. Your order was cancelled and you were not charged. We apologize for the inconvenience."
+msgstr "On a essayé de passer votre commande mais le magasin a soit des endroits fermés ou modifiés. Votre commande a été annulée et vous n'ont pas été facturés. Nous nous excusons pour le dérangement."
+
+#: help_center/signals/notification_messages.py:282help_center/signals/notification_messages.py:358
+msgctxt "Job cancellation buyer notification message"
+msgid "We tried to place your order but the store has either closed or changed locations. Your order was cancelled and you were not charged. A credit will be applied to your next order for the inconvenience."
+msgstr "On a essayé de passer votre commande mais le magasin a soit des endroits fermés ou modifiés. Votre commande a été annulée et vous n'ont pas été facturés. Un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:292
+msgctxt "Job cancellation buyer notification message"
+msgid "Looks like this merchant is not open right now. We apologize for the inconvenience, but your order has been cancelled. Please try again from another location."
+msgstr "On dirait que ce marchand n'est pas ouvert en ce moment. Nous nous excusons pour la gêne occasionnée, mais votre commande a été annulée. S'il vous plaît essayer de nouveau à un autre endroit."
+
+#: help_center/signals/notification_messages.py:301
+msgctxt "Job cancellation buyer notification message"
+msgid "Looks like this merchant is not open right now. We apologize for the inconvenience, but your order has been cancelled. A credit will be applied to your next order for the inconvenience, please try again from another location."
+msgstr "On dirait que ce marchand n'est pas ouvert en ce moment. Nous nous excusons pour la gêne occasionnée, mais votre commande a été annulée. Un crédit sera appliqué à votre prochaine commande pour le désagrément, s'il vous plaît essayer à nouveau à un autre endroit."
+
+#: help_center/signals/notification_messages.py:311help_center/signals/notification_messages.py:330
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately your order has been cancelled due to a complication with the merchant. Please try ordering again from another location. We are investigating."
+msgstr "Malheureusement, votre commande a été annulée en raison d'une complication avec le marchand. S'il vous plaît essayer de commander à nouveau à un autre endroit. Nous enquêtons."
+
+#: help_center/signals/notification_messages.py:320help_center/signals/notification_messages.py:339
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately your order has been cancelled due to a complication with the merchant. A credit will be applied to your next order for the inconvenience, please try again from another location."
+msgstr "Malheureusement, votre commande a été annulée en raison d'une complication avec le marchand. Un crédit sera appliqué à votre prochaine commande pour le désagrément, s'il vous plaît essayer à nouveau à un autre endroit."
+
+#: help_center/signals/notification_messages.py:367help_center/signals/notification_messages.py:384help_center/signals/notification_messages.py:440
+msgctxt "Job cancellation buyer notification message"
+msgid "Your order has been cancelled. The merchant is currently too busy to take orders. You won't be charged for this order."
+msgstr "Votre commande a été annulée. Le marchand est actuellement trop occupé pour prendre les commandes. Vous ne serez pas facturé pour cette commande."
+
+#: help_center/signals/notification_messages.py:374help_center/signals/notification_messages.py:393help_center/signals/notification_messages.py:449
+msgctxt "Job cancellation buyer notification message"
+msgid "Your order has been cancelled. The merchant is currently too busy to take orders. You won't be charged for this order and a credit will be applied to your next order for the inconvenience."
+msgstr "Votre commande a été annulée. Le marchand est actuellement trop occupé pour prendre les commandes. Vous ne serez pas facturé pour cette commande et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:403
+msgctxt "Job cancellation buyer notification message"
+msgid "Your order has been cancelled. The merchant is temporarily unable to accept credit cards. You won't be charged for this order."
+msgstr "Votre commande a été annulée. Le marchand est temporairement incapable d'accepter les cartes de crédit. Vous ne serez pas facturé pour cette commande."
+
+#: help_center/signals/notification_messages.py:412
+msgctxt "Job cancellation buyer notification message"
+msgid "Your order has been cancelled. You won't be charged for this order and a credit will be applied to your next order for the inconvenience."
+msgstr "Votre commande a été annulée. Vous ne serez pas facturé pour cette commande et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:421
+msgctxt "Job cancellation buyer notification message"
+msgid "Your order has been cancelled. The merchant is unable to accept credit cards. You won't be charged for this order."
+msgstr "Votre commande a été annulée. Le marchand ne peut pas accepter les cartes de crédit. Vous ne serez pas facturé pour cette commande."
+
+#: help_center/signals/notification_messages.py:430
+msgctxt "Job cancellation buyer notification message"
+msgid "Your order has been cancelled. The merchant is unable to accept credit cards. You won't be charged for this order and a credit will be applied to your next order for the inconvenience."
+msgstr "Votre commande a été annulée. Le marchand ne peut pas accepter les cartes de crédit. Vous ne serez pas facturé pour cette commande et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:459help_center/signals/notification_messages.py:467help_center/signals/notification_messages.py:899help_center/signals/notification_messages.py:907
+msgctxt "Job cancellation buyer notification message"
+msgid "As requested, your Postmates delivery has been cancelled. We hope to see you again soon!"
+msgstr "Comme l'a demandé, votre livraison de Postmates a été annulée. Nous espérons te revoir bientôt."
+
+#: help_center/signals/notification_messages.py:476
+msgctxt "Job cancellation buyer notification message"
+msgid "Your order has been cancelled. The merchant is unable to take orders at this time. You won't be charged."
+msgstr "Votre commande a été annulée. Le marchand ne peut pas prendre les commandes à ce moment. Vous ne serez pas facturé."
+
+#: help_center/signals/notification_messages.py:484
+msgctxt "Job cancellation buyer notification message"
+msgid "Your order has been cancelled. The merchant is unable to take orders at this time. You were not charged and a credit will be applied to your next order for the inconvenience."
+msgstr "Votre commande a été annulée. Le marchand ne peut pas prendre les commandes à ce moment. Vous ne avez pas facturé et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:492
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, no Postmates were available to complete your delivery. You were not charged and a delivery credit will be applied to your next order for the inconvenience."
+msgstr "Malheureusement, aucun Postmates était disponible pour compléter votre livraison. Vous ne avez pas facturé et un crédit de livraison sera appliqué à votre prochaine commande pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:500
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, no Postmates were available to complete your delivery. You were not charged and we apologize for the inconvenience."
+msgstr "Malheureusement, aucun Postmates était disponible pour compléter votre livraison. Vous ne avez pas payer et nous nous excusons pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:508
+msgctxt "Job cancellation buyer notification message"
+msgid "We're sorry, but your delivery has been cancelled due to issues at the merchant. You were not charged, please try ordering from a different location."
+msgstr "Nous sommes désolés, mais votre livraison a été annulée en raison de problèmes au marchand. Vous ne avez pas payer, s'il vous plaît essayer de commander à partir d'un autre endroit."
+
+#: help_center/signals/notification_messages.py:516
+msgctxt "Job cancellation buyer notification message"
+msgid "We're sorry, but your delivery has been cancelled due to issues at the merchant. You were not charged and a credit will be applied to your next order for the inconvenience."
+msgstr "Nous sommes désolés, mais votre livraison a été annulée en raison de problèmes au marchand. Vous ne avez pas facturé et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:525help_center/signals/notification_messages.py:968
+msgctxt "Job cancellation buyer notification message"
+msgid "We were unable to place your order because the merchant is closed. We apologize for the inconvenience, you were not charged."
+msgstr "Nous ne pouvions pas passer votre commande parce que le marchand est fermé. Veuillez nous excuser pour la gêne occasionnée, vous ont pas fait payer."
+
+#: help_center/signals/notification_messages.py:534
+msgctxt "Job cancellation buyer notification message"
+msgid "We were unable to place your order because the merchant is closed. Please order from a different location and we'll apply a delivery credit for the inconvenience."
+msgstr "Nous ne pouvions pas passer votre commande parce que le marchand est fermé. S'il vous plaît commander à partir d'un autre endroit et nous allons appliquer un crédit de livraison pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:543
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, your order was damaged during delivery and can't be completed. We apologize for the inconvenience."
+msgstr "Malheureusement, votre commande a été endommagé pendant la livraison et ne peut pas être terminée. Nous nous excusons pour le dérangement."
+
+#: help_center/signals/notification_messages.py:551
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, your order was damaged during delivery and can't be completed. Order again now and we'll apply a delivery credit for the inconvenience."
+msgstr "Malheureusement, votre commande a été endommagé pendant la livraison et ne peut pas être terminée. Commander à nouveau maintenant et nous allons appliquer un crédit de livraison pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:560
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, your Postmate had an emergency and was unable to complete your delivery. We apologize for the inconvenience."
+msgstr "Malheureusement, votre Postmate avait une situation d'urgence et n'a pas pu terminer votre livraison. Nous nous excusons pour le dérangement."
+
+#: help_center/signals/notification_messages.py:569
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, your Postmate had an emergency and was unable to complete your delivery. Order again now and we'll apply a delivery credit for the inconvenience."
+msgstr "Malheureusement, votre Postmate avait une situation d'urgence et n'a pas pu terminer votre livraison. Commander à nouveau maintenant et nous allons appliquer un crédit de livraison pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:578help_center/signals/notification_messages.py:587help_center/signals/notification_messages.py:1023help_center/signals/notification_messages.py:1032
+msgctxt "Job cancellation buyer notification message"
+msgid "We're sorry, but your delivery was cancelled as the Postmate reported that item(s) ordered violate our terms. Check your email for details."
+msgstr "Nous sommes désolés, mais votre livraison a été annulée POSTMATE a indiqué que l'article (s) commandé violent nos conditions. Vérifiez votre email pour plus de détails."
+
+#: help_center/signals/notification_messages.py:596help_center/signals/notification_messages.py:1041
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, we had issues paying the merchant and had to cancel. We apologize for the inconvenience; you were not charged."
+msgstr "Malheureusement, nous avons eu des problèmes de paiement du commerçant et a dû annuler. Nous nous excusons pour le dérangement; vous ne payez pas."
+
+#: help_center/signals/notification_messages.py:605
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, we had issues paying the merchant and had to cancel. Order again now and we'll apply a delivery credit for the inconvenience."
+msgstr "Malheureusement, nous avons eu des problèmes de paiement du commerçant et a dû annuler. Commander à nouveau maintenant et nous allons appliquer un crédit de livraison pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:614
+msgctxt "Job cancellation buyer notification message"
+msgid "We were unable to authorize your card. Please update your payment information."
+msgstr "Nous ne pouvons pas autoriser votre carte. S'il vous plaît mettre à jour vos informations de paiement."
+
+#: help_center/signals/notification_messages.py:622
+msgctxt "Job cancellation buyer notification message"
+msgid "We were unable to authorize your card. Order again now and we’ll apply a delivery credit for the inconvenience."
+msgstr "Nous ne pouvons pas autoriser votre carte. Commander à nouveau maintenant et nous allons appliquer un crédit de livraison pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:640
+msgctxt "Job cancellation buyer notification message"
+msgid "Your order could not be completed and has been cancelled. You were not charged and a credit will be applied for the inconvenience."
+msgstr "Votre commande n'a pas pu être terminée et a été annulée. Vous ne avez pas facturé et un crédit sera appliqué pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:650help_center/signals/notification_messages.py:669
+msgctxt "Job cancellation buyer notification message"
+msgid "Sorry, your Postmates order has been cancelled. The merchant is temporarily closed. You won't be charged. {help_center_article_link}"
+msgstr "Désolé, votre commande Postmates a été annulée. Le marchand est temporairement fermé. Vous ne serez pas facturé. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:659help_center/signals/notification_messages.py:678
+msgctxt "Job cancellation buyer notification message"
+msgid "Sorry, your Postmates order has been cancelled. The merchant is temporarily closed. You were not charged and a credit will be applied for the inconvenience. {help_center_article_link}"
+msgstr "Désolé, votre commande Postmates a été annulée. Le marchand est temporairement fermé. Vous ne avez pas facturé et un crédit sera appliqué pour la gêne occasionnée. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:688
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately your order cannot be completed from this location. Please try ordering from another location. You won't be charged. {help_center_article_link}"
+msgstr "Malheureusement, votre commande ne peut être effectuée à partir de cet endroit. S'il vous plaît essayer de commander à un autre endroit. Vous ne serez pas facturé. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:697
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately your order cannot be completed from this location. Please order from another location. You were not charged and a credit will be applied to your next order for the inconvenience. {help_center_article_link}"
+msgstr "Malheureusement, votre commande ne peut être effectuée à partir de cet endroit. S'il vous plaît commander à un autre endroit. Vous ne avez pas facturé et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:707help_center/signals/notification_messages.py:784
+msgctxt "Job cancellation buyer notification message"
+msgid "We tried to place your order but the store has either closed or changed locations. Your order was cancelled and you were not charged. {help_center_article_link}"
+msgstr "On a essayé de passer votre commande mais le magasin a soit des endroits fermés ou modifiés. Votre commande a été annulée et vous n'ont pas été facturés. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:716help_center/signals/notification_messages.py:793
+msgctxt "Job cancellation buyer notification message"
+msgid "We tried to place your order but the store has either closed or changed locations. Your order was cancelled and a credit will be applied to your next order for the inconvenience. {help_center_article_link}"
+msgstr "On a essayé de passer votre commande mais le magasin a soit des endroits fermés ou modifiés. Votre commande a été annulée et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:726
+msgctxt "Job cancellation buyer notification message"
+msgid "Looks like this merchant is not open right now. We apologize for the inconvenience, but your order has been cancelled. Please try again from another location. {help_center_article_link}"
+msgstr "On dirait que ce marchand n'est pas ouvert en ce moment. Nous nous excusons pour la gêne occasionnée, mais votre commande a été annulée. S'il vous plaît essayer de nouveau à un autre endroit. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:736
+msgctxt "Job cancellation buyer notification message"
+msgid "Looks like this merchant is not open right now. Your order was cancelled and a credit will be applied to your next order for the inconvenience. Please try again from another location. {help_center_article_link}"
+msgstr "On dirait que ce marchand n'est pas ouvert en ce moment. Votre commande a été annulée et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée. S'il vous plaît essayer de nouveau à un autre endroit. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:746
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately your order has been cancelled due to a complication with the merchant. Please order again from another location. {help_center_article_link}"
+msgstr "Malheureusement, votre commande a été annulée en raison d'une complication avec le marchand. S'il vous plaît commander à nouveau à un autre endroit. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:755help_center/signals/notification_messages.py:774
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately your order has been cancelled due to a complication with the merchant. A credit will be applied to your next order for the inconvenience. {help_center_article_link}"
+msgstr "Malheureusement, votre commande a été annulée en raison d'une complication avec le marchand. Un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:765
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately your order has been cancelled due to a complication with the merchant. Please order from another location. {help_center_article_link}"
+msgstr "Malheureusement, votre commande a été annulée en raison d'une complication avec le marchand. S'il vous plaît commander à un autre endroit. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:803help_center/signals/notification_messages.py:822help_center/signals/notification_messages.py:880
+msgctxt "Job cancellation buyer notification message"
+msgid "Sorry, your Postmates order has been cancelled. The merchant is too busy to take orders. You won't be charged. {help_center_article_link}"
+msgstr "Désolé, votre commande Postmates a été annulée. Le marchand est trop occupé pour prendre les commandes. Vous ne serez pas facturé. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:812help_center/signals/notification_messages.py:831help_center/signals/notification_messages.py:889
+msgctxt "Job cancellation buyer notification message"
+msgid "Sorry, your Postmates order has been cancelled. The merchant is too busy to take orders. You won't be charged and a credit will be applied to your next order for the inconvenience. {help_center_article_link}"
+msgstr "Désolé, votre commande Postmates a été annulée. Le marchand est trop occupé pour prendre les commandes. Vous ne serez pas facturé et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:841help_center/signals/notification_messages.py:860
+msgctxt "Job cancellation buyer notification message"
+msgid "Your Postmates order has been cancelled. The merchant is unable to accept credit cards. You won't be charged. {help_center_article_link}"
+msgstr "Votre commande Postmates a été annulée. Le marchand ne peut pas accepter les cartes de crédit. Vous ne serez pas facturé. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:850help_center/signals/notification_messages.py:869
+msgctxt "Job cancellation buyer notification message"
+msgid "Your Postmates order has been cancelled. The merchant is unable to accept credit cards. You won't be charged and a credit will be applied to your next order for the inconvenience. {help_center_article_link}"
+msgstr "Votre commande Postmates a été annulée. Le marchand ne peut pas accepter les cartes de crédit. Vous ne serez pas facturé et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:915
+msgctxt "Job cancellation buyer notification message"
+msgid "Sorry, your Postmates order has been cancelled. The merchant is temporarily not able to accept orders. You won't be charged. {help_center_article_link}"
+msgstr "Désolé, votre commande Postmates a été annulée. Le marchand est temporairement pas en mesure d'accepter des commandes. Vous ne serez pas facturé. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:924
+msgctxt "Job cancellation buyer notification message"
+msgid "Sorry, your Postmates order has been cancelled. The merchant is temporarily not able to accept orders. You won't be charged and a credit will be applied to your next order for the inconvenience. {help_center_article_link}"
+msgstr "Désolé, votre commande Postmates a été annulée. Le marchand est temporairement pas en mesure d'accepter des commandes. Vous ne serez pas facturé et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:933
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, no Postmates were available to complete your delivery. You were not charged and we apologize for the inconvenience. {help_center_article_link}"
+msgstr "Malheureusement, aucun Postmates était disponible pour compléter votre livraison. Vous ne avez pas payer et nous nous excusons pour la gêne occasionnée. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:941
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, no Postmates were available to complete your delivery. You were not charged and a delivery credit will be applied to your next order for the inconvenience. {help_center_article_link}"
+msgstr "Malheureusement, aucun Postmates était disponible pour compléter votre livraison. Vous ne avez pas facturé et un crédit de livraison sera appliqué à votre prochaine commande pour la gêne occasionnée. {help_center_article_link}"
+
+#: help_center/signals/notification_messages.py:950
+msgctxt "Job cancellation buyer notification message"
+msgid "We're sorry, but your delivery has been cancelled due to issues at the merchant. You haven't been charged, please order from a different location."
+msgstr "Nous sommes désolés, mais votre livraison a été annulée en raison de problèmes au marchand. Vous ne l'avez pas été accusé, s'il vous plaît commander à partir d'un autre endroit."
+
+#: help_center/signals/notification_messages.py:958
+msgctxt "Job cancellation buyer notification message"
+msgid "We're sorry, but your delivery has been cancelled due to issues at the merchant. You were not charged and a  credit will be applied to your next order for the inconvenience."
+msgstr "Nous sommes désolés, mais votre livraison a été annulée en raison de problèmes au marchand. Vous ne avez pas facturé et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:977
+msgctxt "Job cancellation buyer notification message"
+msgid "We were unable to place your order because the merchant is closed. A credit will be applied to your next order for theinconvenience."
+msgstr "Nous ne pouvions pas passer votre commande parce que le marchand est fermé. Un crédit sera appliqué à votre prochaine commande pour theinconvenience."
+
+#: help_center/signals/notification_messages.py:986
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, your order was damaged during delivery and can't be delivered. We apologize for the inconvenience, you were not charged."
+msgstr "Malheureusement, votre commande a été endommagé pendant la livraison et ne peut pas être livré. Veuillez nous excuser pour la gêne occasionnée, vous ont pas fait payer."
+
+#: help_center/signals/notification_messages.py:995
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, your order was damaged during delivery and can't be delivered. Order again now and we'll apply a delivery credit for the inconvenience."
+msgstr "Malheureusement, votre commande a été endommagé pendant la livraison et ne peut pas être livré. Commander à nouveau maintenant et nous allons appliquer un crédit de livraison pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:1004
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, your Postmate had an emergency and was unable to complete your delivery. We apologize for the inconvenience, you were not charged."
+msgstr "Malheureusement, votre Postmate avait une situation d'urgence et n'a pas pu terminer votre livraison. Veuillez nous excuser pour la gêne occasionnée, vous ont pas fait payer."
+
+#: help_center/signals/notification_messages.py:1013
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, your Postmate had an emergency and was unable to complete your delivery. You were not charged and a credit will be applied to your next order for the inconvenience."
+msgstr "Malheureusement, votre Postmate avait une situation d'urgence et n'a pas pu terminer votre livraison. Vous ne avez pas facturé et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:1050
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, we had issues paying the merchant and had to cancel. You were not charged and a credit will be applied to your next order for the inconvenience."
+msgstr "Malheureusement, nous avons eu des problèmes de paiement du commerçant et a dû annuler. Vous ne avez pas facturé et un crédit sera appliqué à votre prochaine commande pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:1059
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, the payment for your scheduled delivery was declined, so the order has been cancelled. Please place a new order using an updated form of payment."
+msgstr "Malheureusement, le paiement de votre livraison prévue a été refusée, de sorte que la commande a été annulée. S'il vous plaît passer une nouvelle commande en utilisant une forme actualisée de paiement."
+
+#: help_center/signals/notification_messages.py:1068
+msgctxt "Job cancellation buyer notification message"
+msgid "Unfortunately, the payment for your scheduled delivery was declined, so the order has been cancelled. You were not charged and a delivery credit will be applied to your next order for the inconvenience."
+msgstr "Malheureusement, le paiement de votre livraison prévue a été refusée, de sorte que la commande a été annulée. Vous ne avez pas facturé et un crédit de livraison sera appliqué à votre prochaine commande pour la gêne occasionnée."
+
+#: help_center/signals/notification_messages.py:1081
+msgctxt "Merchant throttling reason message"
+msgid "This merchant is temporarily at capacity and cannot accept new orders. Please select a different merchant or try again later."
+msgstr "Ce marchand est temporairement à pleine capacité et ne peut pas accepter de nouvelles commandes. S'il vous plaît sélectionner un autre marchand ou réessayer plus tard."
+
+#: help_center/signals/notification_messages.py:1086help_center/signals/notification_messages.py:1173help_center/signals/notification_messages.py:1206
+msgctxt "Merchant throttling reason message"
+msgid "Too Busy"
+msgstr "Trop occupé"
+
+#: help_center/signals/notification_messages.py:1092
+msgctxt "Merchant throttling reason message"
+msgid "This merchant is temporarily closed and cannot accept new orders. Please select a different merchant or try again later."
+msgstr "Ce marchand est temporairement fermé et ne peut pas accepter de nouvelles commandes. S'il vous plaît sélectionner un autre marchand ou réessayer plus tard."
+
+#: help_center/signals/notification_messages.py:1097help_center/signals/notification_messages.py:1119help_center/signals/notification_messages.py:1130help_center/signals/notification_messages.py:1141help_center/signals/notification_messages.py:1162help_center/signals/notification_messages.py:1217
+msgctxt "Merchant throttling reason message"
+msgid "Closed"
+msgstr "Fermé"
+
+#: help_center/signals/notification_messages.py:1103help_center/signals/notification_messages.py:1136help_center/signals/notification_messages.py:1147
+msgctxt "Merchant throttling reason message"
+msgid "This merchant is not available to accept orders right now. We're currently investigating."
+msgstr "Ce marchand est pas disponible pour accepter les commandes en ce moment. Nous étudions actuellement."
+
+#: help_center/signals/notification_messages.py:1108help_center/signals/notification_messages.py:1152
+msgctxt "Merchant throttling reason message"
+msgid "Unavailable"
+msgstr "Indisponible"
+
+#: help_center/signals/notification_messages.py:1114
+msgctxt "Merchant throttling reason message"
+msgid "This merchant is temporarily not available to accept orders. Please select a different merchant or try again later."
+msgstr "Ce marchand est temporairement non disponible pour accepter les commandes. S'il vous plaît sélectionner un autre marchand ou réessayer plus tard."
+
+#: help_center/signals/notification_messages.py:1125help_center/signals/notification_messages.py:1212
+msgctxt "Merchant throttling reason message"
+msgid "This merchant is closed and cannot accept new orders. Please select a different merchant."
+msgstr "Ce marchand est fermé et ne peut accepter de nouvelles commandes. S'il vous plaît sélectionner un marchand différent."
+
+#: help_center/signals/notification_messages.py:1158
+msgctxt "Merchant throttling reason message"
+msgid "This place has either closed or changed locations."
+msgstr "Cet endroit a soit des endroits fermés ou modifiés."
+
+#: help_center/signals/notification_messages.py:1168
+msgctxt "Merchant throttling reason message"
+msgid "This merchant is temporarily too busy to accept new orders. Please select a different merchant or try again later."
+msgstr "Ce marchand est temporairement trop occupé pour accepter de nouvelles commandes. S'il vous plaît sélectionner un autre marchand ou réessayer plus tard."
+
+#: help_center/signals/notification_messages.py:1179help_center/signals/notification_messages.py:1190
+msgctxt "Merchant throttling reason message"
+msgid "This merchant is temporarily not available to accept new orders. Please select a different merchant or try again later."
+msgstr "Ce marchand est temporairement non disponible pour accepter de nouvelles commandes. S'il vous plaît sélectionner un autre marchand ou réessayer plus tard."
+
+#: help_center/signals/notification_messages.py:1184help_center/signals/notification_messages.py:1195
+msgctxt "Merchant throttling reason message"
+msgid "Not Available"
+msgstr "Indisponible"
+
+#: help_center/signals/notification_messages.py:1201
+msgctxt "Merchant throttling reason message"
+msgid "This merchant is not available to accept new Postmates orders. Please select a different merchant or try again later."
+msgstr "Ce marchand est pas disponible pour accepter de nouvelles commandes Postmates. S'il vous plaît sélectionner un autre marchand ou réessayer plus tard."
+
+#: pm_base/forms/fields.py:143
+msgid "Email is required."
+msgstr "L'adresse e-mail est obligatoire."
+
+#: pm_base/forms/fields.py:236
+msgid "Unknown"
+msgstr "Inconnu"
+
+#: pm_base/forms/fields.py:236
+msgid "Yes"
+msgstr "Oui"
+
+#: pm_base/forms/fields.py:236
+msgid "No"
+msgstr "Non"
+
+#: pm_user/models.py:115
+msgid "password"
+msgstr "Mot de passe"
+
