@@ -4,7 +4,7 @@ en:
       profile_completed_step:
         incorrect: Incorrect
       device_token:
-        cannot_be_blank: Jeton de périphérique ne peut pas être vide
+        cannot_be_blank: ''
       device_type:
         is_required: Le type de règlement est obligatoire.
       email_or_password_not_present: La demande doit contenir l'e-mail et mot de passe
